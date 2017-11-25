@@ -1,5 +1,5 @@
 {
-    "name": "odannyc/google-image-search",
+    "name": "philip/google-image-search",
     "description": "You're able to query google for images using Google's new Custom Search API.",
     "authors": [
         {
@@ -9,7 +9,7 @@
     ],
     "require": {
         "guzzlehttp/guzzle": "^6.2",
-        "phpunit/phpunit": "^5.5"
+        "phpunit/phpunit": "^6.0"
     },
     "autoload": {
         "psr-4": {
